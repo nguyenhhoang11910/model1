@@ -22,32 +22,14 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-"https://civitai.com/api/download/models/43970"
-"https://civitai.com/api/download/models/38589"
-"https://civitai.com/api/download/models/78550"
-"https://civitai.com/api/download/models/181589"
-"https://civitai.com/api/download/models/257704"
-"https://civitai.com/api/download/models/4525"
-"https://civitai.com/api/download/models/67584"
-"https://civitai.com/api/download/models/127587"
-"https://civitai.com/api/download/models/265009"
-"https://civitai.com/api/download/models/46846?type=Model&format=SafeTensor&size=full&fp=fp32"
+"https://civitai.com/api/download/models/279933"
+"https://civitai.com/api/download/models/115086"
+
 
 )
 
 LORA_MODELS=(
-"https://civitai.com/api/download/models/143616"
-"https://civitai.com/api/download/models/113411?type=Model&format=SafeTensor"
-"https://civitai.com/api/download/models/157564"
-"https://civitai.com/api/download/models/73427"
-"https://civitai.com/api/download/models/52347"
-"https://civitai.com/api/download/models/359724"
-"https://civitai.com/api/download/models/91794"
-"https://civitai.com/api/download/models/101079"
-"https://civitai.com/api/download/models/133391"
-"https://civitai.com/api/download/models/87479"
-"https://civitai.com/api/download/models/75860"
-"https://civitai.com/api/download/models/79794"
+
 )
 
 VAE_MODELS=(
